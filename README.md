@@ -1,2 +1,2 @@
-# education-github-docker
-Jobs &amp; Docker Containers
+# Education Github Actions. Jobs & Docker Containers
+Running Jobs in Containers
